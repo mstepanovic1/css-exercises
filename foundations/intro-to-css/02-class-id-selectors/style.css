@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #d46888;
+    font-family: Verdana, "DejaVu Sans", sans-serif; /*idk if i did this right with the quotes vs non quotes */
+}
+
+#sec {
+    color: rgb(3, 69, 252);
+    font-size: 36px;
+}
+
+#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: hsl(126, 80%, 66%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/*i didn't do it the way the self check wanted me to but it still works. is the other way more efficient? */
