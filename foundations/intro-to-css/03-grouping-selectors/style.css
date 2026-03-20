@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second {
+    background-color: yellow;
+}
+
+.first, .second {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+ /*this was my inital setup with class header "both" on both button texts/elements but then i saw solution and copied that
+ .both {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+} */
